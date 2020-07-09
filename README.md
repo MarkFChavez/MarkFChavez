@@ -1,4 +1,4 @@
-👋 Hi! I'm a software developer from the Philippines.
+👋 Hi! I'm a software developer from the Philippines 🇵🇭 🇵🇭 🇵🇭
 
 My current tech stack revolves around:  
 👉🏻 Ruby  
