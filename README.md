@@ -3,7 +3,7 @@
 My current tech stack revolves around:  
 👉🏻 Ruby  
 👉🏻 Rails  
-👉🏻 JavaScript (mostly ES6, but I had some experience using Vue/React in the past)  
+👉🏻 JavaScript  
 
 I want to be more comfortable using:  
 🤔 Docker  
