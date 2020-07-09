@@ -1,9 +1,9 @@
 👋 Hi! I'm a software developer from the Philippines 🇵🇭 🇵🇭 🇵🇭
 
 My current tech stack revolves around:  
-👉🏻 Ruby  
-👉🏻 Rails  
-👉🏻 JavaScript  
+👉 Ruby  
+👉 Rails  
+👉 JavaScript  
 
 I want to be more comfortable using:  
 🤔 Docker  
