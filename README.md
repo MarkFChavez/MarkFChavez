@@ -12,4 +12,4 @@ I want to be more comfortable using:
 
 You can check out some of my work at https://markonsoftware.com.
 
-Special thanks to https://github.com/RobertBroersma for my avatar! Get yours at https://bigheads.io/.
+🎉 🎉 🎉 Special thanks to https://github.com/RobertBroersma for my avatar! Get yours at https://bigheads.io/.
