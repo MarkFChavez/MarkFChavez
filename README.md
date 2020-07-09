@@ -5,4 +5,4 @@ My current tech stack revolves around:
 👉🏻 Rails  
 👉🏻 JavaScript (mostly ES6, but I had some experience using Vue/React in the past)  
 
-You can check out some of my work at [markonsoftware.com][https://markonsoftware.com].
+You can check out some of my work at https://markonsoftware.com.
