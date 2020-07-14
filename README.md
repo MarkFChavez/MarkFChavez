@@ -1,6 +1,6 @@
 👋 Hi! I'm a software developer from the Philippines 🇵🇭 🇵🇭 🇵🇭
 
-My current tech stack revolves around:  
+I like using the ff. whenever I make an app:
 👉 Ruby  
 👉 Rails  
 👉 JavaScript  
